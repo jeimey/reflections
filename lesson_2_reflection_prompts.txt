@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+It starts the process of tracking the versions of the files within that 
+directory.
+You just go into the directory and type "git init", and then that 
+directory becomes a git repository

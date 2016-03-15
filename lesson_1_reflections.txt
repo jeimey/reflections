@@ -1,0 +1,32 @@
+Version control is important because as you make changes, sometimes you make 
+typos, and then it's hard to find the error.  Also sometimes everything
+is perfect, and then you try to make one little improvement, and then 
+everything falls apart.  Another advantage of version control, is that 
+sometimes while programming, you reach a dead end and decide to start over.
+If you have version control, you can save it, and maybe you will find it
+useful in the future.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+you can look back and find the best features of different versions.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros = You will save functional code with discrete and meaningful changes
+
+Cons = You could forget to save, and useful work could be wiped out. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git was designed for programming, in which multiple files often go together and 
+function interdependently.  Thus git preserves the system of the program as 
+a whole
+
+
+How might using version control make you more confident to make changes that could break something?
+
+It makes it very easy to just go back.  
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+- Not sure.  It seems like a major pain, unless you have many files for one project.
+I'd like a better interface.
