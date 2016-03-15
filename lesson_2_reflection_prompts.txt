@@ -3,3 +3,9 @@ It starts the process of tracking the versions of the files within that
 directory.
 You just go into the directory and type "git init", and then that 
 directory becomes a git repository
+
+How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+
+It's a place to decide what files to place in each commit -- no, I though
+all files in the repository are saved with a commit.  
