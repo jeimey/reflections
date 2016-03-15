@@ -9,3 +9,9 @@ and the repository? What value do you think it offers?
 
 It's a place to decide what files to place in each commit -- no, I though
 all files in the repository are saved with a commit.  
+
+
+How can you use the staging area to make sure you have one
+commit per logical change?
+Put things directly in the staging area and commit them after a logical 
+change has been made.
