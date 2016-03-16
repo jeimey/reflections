@@ -29,3 +29,12 @@ What are some situations when branches would be helpful in
  the diagrams (graphs) that git can make for you will show
  you exactly what changes were made on which branch, and this 
  will be helpful for you when you want to merge them later.  
+
+ What is the result of merging two branches together?
+  Why do we represent it in the diagram the way we do?
+
+  In theory it should keep all of the changes (either addtions
+  or deletions) from both branches and then it will be all in 
+  one branch.  The diagram records the history.
+
+  
