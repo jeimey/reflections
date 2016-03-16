@@ -37,4 +37,14 @@ What are some situations when branches would be helpful in
   or deletions) from both branches and then it will be all in 
   one branch.  The diagram records the history.
 
+
+What are the pros and cons of Git’s automatic merging vs.
+ always doing merges manually?
+ Automatic - fast, quick, but the wrong lines of code might
+ be deleted or kept.
+ Manual - you have complete control over the what code
+ will be in the merged file
+ - but this will take more time.  
+
+
   
