@@ -15,3 +15,11 @@ How can you use the staging area to make sure you have one
 commit per logical change?
 Put things directly in the staging area and commit them after a logical 
 change has been made.
+
+
+What are some situations when branches would be helpful in
+ keeping your history organized? How would branches help?
+ If you want to create different versions for test purchases.
+
+ If you want to take a completely different approach, and
+ this will allow you to save different ideas.
