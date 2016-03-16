@@ -3,3 +3,9 @@ than keeping all your work local?
 a. to have a backup in the cloud
 b. to collaborate and/or share with others
 
+Why might you want to always pull changes manually 
+rather than having Git automatically stay up-to-date 
+with your remote repository?
+ - you might want to disregard changes from the cloud
+ - someone else might make bad changes and you don't
+ want to download them.  
