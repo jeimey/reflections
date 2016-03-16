@@ -23,3 +23,9 @@ What are some situations when branches would be helpful in
 
  If you want to take a completely different approach, and
  this will allow you to save different ideas.
+
+ How do the diagrams help you visualize the branch structure?
+ Understanding the branch structure is confusing, but 
+ the diagrams (graphs) that git can make for you will show
+ you exactly what changes were made on which branch, and this 
+ will be helpful for you when you want to merge them later.  
